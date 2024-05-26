@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "firstName": "Benmax",
+      "lastName": "Mwandoro",
+      "email": "benmax@gmail.com",
+      "dob": "2024-04-30T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Big",
+      "experience": 6,
+      "package": 50,
+      "id": "3d35"
+    },
+    {
+      "id": "f12f",
+      "firstName": "Stacy",
+      "lastName": "Odhiambo",
+      "email": "odhiambostacy993@gmail.com",
+      "dob": "2017-11-07T21:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "JB",
+      "experience": 6,
+      "package": 13
+    },
+    {
+      "id": "2c80",
+      "firstName": "Grace",
+      "lastName": "Ngala",
+      "email": "neemagrace67@gmail.com",
+      "dob": "2008-02-05T21:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Lona",
+      "experience": 5,
+      "package": 13
+    },
+    {
+      "id": "d9a7",
+      "firstName": "Jim",
+      "lastName": "Alex",
+      "email": "jim@gmail.com",
+      "dob": "2017-02-21T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Axe",
+      "experience": 2,
+      "package": 5
+    },
+    {
+      "id": "8be5",
+      "firstName": "Neema ",
+      "lastName": "Pendo",
+      "email": "pendo12@gmail.com",
+      "dob": "2026-03-10T21:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Lux",
+      "experience": 2,
+      "package": 6
+    },
+    {
+      "id": "14a4",
+      "firstName": "Riziki",
+      "lastName": "Mboya",
+      "email": "riziki55@gmail.com",
+      "dob": "2018-03-04T21:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Kod",
+      "experience": 3,
+      "package": 34
+    }
+  ]
+}
